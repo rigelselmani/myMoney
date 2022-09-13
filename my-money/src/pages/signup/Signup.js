@@ -38,7 +38,6 @@ export default function Signup(){
                 value={name}
             />
            </label>
-           <button className="btn">Submit</button>
         </form>
     )
 }
